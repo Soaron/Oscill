@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CS_Oscill.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DarkBackground" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="DarkGrid" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="DarkZeroLvl" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Aqua</Value>
+    </Setting>
+    <Setting Name="DarkGraph" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+    <Setting Name="DarkCursor1" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="DarkCursor2" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="LightBackground" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="LightGrid" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="LightZeroLvl" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="LightGraph" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="LightCursor1" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="LightCursor2" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">DarkGreen</Value>
+    </Setting>
+    <Setting Name="UserBackground" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="UserGrid" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="UserZeroLvl" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Aqua</Value>
+    </Setting>
+    <Setting Name="UserGraph" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+    <Setting Name="UserCursor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="UserCursor2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="UserSaved" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
